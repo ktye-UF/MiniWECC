@@ -1,5 +1,6 @@
-- All the code and documents can be found in a private Github repository as well. I will sent out invitations.
 - This folder will be updated.
+- All the demo code and documents can be found in a private Github repository as well. 
+Note that the repository is for MiniWECC demo only. And everything in github and outlook shareone will be uqdated simultaneously.
 ================Introduction==============
 This folder contains 3 demos:
 1. 'demo_paper.m': 
