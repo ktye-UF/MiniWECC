@@ -44,7 +44,7 @@ Demo_MiniWECC:.
 │      load_data_for_30days_starting_at_20180729_15.csv
 │      Load_ratio1-m.csv
 │      
-├─plot
+├─plot                                                        # plots and figures
 │	......
 │          
 ├─power_system                                                # .m file for matpower, containing system information
