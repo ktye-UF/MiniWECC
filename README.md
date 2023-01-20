@@ -4,7 +4,7 @@
 ## Introduction
 This repo currently contains 3 demos:
 
-- **`'demo_paper.m'`**: demo for the pipeline of Gaussian process surrogate modeling. More advanced methods (parallel partial Gaussian process) will be used for this project.
+- **`'demo_paper.m'`**: demo for the pipeline of Gaussian process surrogate modeling. More advanced methods (parallel partial Gaussian process) will be used for more complex problems.
 
 
 - **`'demo1_copula_inference.m'`**: demo for comparing copula inference results based on 720 samples and 360 samples
