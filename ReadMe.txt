@@ -8,6 +8,8 @@ This folder contains 3 demos:
 	demo for comparing copula inference results based on 720 samples and 360 samples
 3. 'demo2_mc_result.m':
 	demo for comparing Monte-Carlo results based on 720 samples and 360 samples
+Others to be updated:
+4. demo for comparing probabilistic results on all 720 samples or clustered data
 
 ===============Requirements==============
 - UQLab: https: //www.uqlab.com/install
