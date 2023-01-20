@@ -1,6 +1,11 @@
 function varargout = solver_wecc(X)
-% % X: n_sample * dim_input, [load, gen]
-% % Y: n_sample * dim_output, [voltage magnitude, voltage angle]
+% % power flow solver for miniwecc
+% % Input: 
+% X: n_sample * dim_input, [load, gen]
+% % Output:
+% Y: n_sample * dim_output, [voltage magnitude, voltage angle]
+% ctime_pf: CPU time
+% is_converge: check if voltage between limits
 
 %% prepare
 % % information about basecase & data

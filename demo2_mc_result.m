@@ -2,6 +2,9 @@
 % % This demo is to compare Monte-Carlo results based on 720 samples and 360 samples
 clearvars
 addpath(genpath(pwd))
+uqlab    % check uqlab
+seed = 1;
+rng(seed)
 %% prepare data
 % load necessary data, including load & gen values
 load('save/data_all');   % data_gen, data_load, mpc

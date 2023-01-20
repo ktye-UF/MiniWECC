@@ -3,6 +3,7 @@
 % % inference is used to generate more data of similar structure when 720 samples are considerred not enough
 clearvars
 addpath(genpath(pwd))
+uqlab    % check uqlab
 seed = 1;
 rng(seed)
 %% prepare data
