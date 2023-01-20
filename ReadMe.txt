@@ -1,6 +1,7 @@
 - This folder will be updated.
 - All the demo code and documents can be found in a private Github repository as well. 
-Note that the repository is for MiniWECC demo only. And everything in github and outlook share folders will be uqdated simultaneously.
+Note that the repository is for MiniWECC demo only and will not be used in this project. 
+And everything in github and outlook share folders will be uqdated simultaneously.
 ================Introduction==============
 This folder contains 3 demos:
 1. 'demo_paper.m': 
