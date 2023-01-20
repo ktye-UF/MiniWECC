@@ -1,0 +1,7 @@
+*.mat filter=lfs diff=lfs merge=lfs -text
+save/demo_paper.mat filter=lfs diff=lfs merge=lfs -text
+save/demo_v1.mat filter=lfs diff=lfs merge=lfs -text
+save/demo_v2.mat filter=lfs diff=lfs merge=lfs -text
+save/Input_infer.mat filter=lfs diff=lfs merge=lfs -text
+save/Input_infer_360.mat filter=lfs diff=lfs merge=lfs -text
+save/data_all.mat filter=lfs diff=lfs merge=lfs -text
