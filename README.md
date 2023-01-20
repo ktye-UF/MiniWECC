@@ -1,5 +1,6 @@
 # MiniWECC
 **`Under Development`**
+Demo for MiniWECC voltage risk assessment.
 
 ## Introduction
 This repo currently contains 3 demos:
