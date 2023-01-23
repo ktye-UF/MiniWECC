@@ -3,7 +3,14 @@
 
 Demo for MiniWECC voltage risk assessment.
 
+## Updates
+01/23/2023
+
+- **`'demo3_group_data'`**: demo is for comparing voltage results between different hours in a day
+
+
 ## Introduction
+
 This repo currently contains 3 demos:
 
 - **`'demo_paper.m'`**: demo for the pipeline of Gaussian process surrogate modeling. More advanced methods (parallel partial Gaussian process) will be used for more complex problems.
@@ -13,8 +20,6 @@ This repo currently contains 3 demos:
 
 
 - **`'demo2_mc_result.m'`**: demo for comparing Monte-Carlo results based on 720 samples and 360 samples
-
-- **`'demo3_group_data'`**: demo is for comparing voltage results between different hours in a day
 
 
 ## Requirements
