@@ -14,6 +14,8 @@ This repo currently contains 3 demos:
 
 - **`'demo2_mc_result.m'`**: demo for comparing Monte-Carlo results based on 720 samples and 360 samples
 
+- **`'demo3_group_data'`**: demo is for comparing voltage results between different hours in a day
+
 
 ## Requirements
 
